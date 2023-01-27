@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iMynn99/pamsimas/static/css/main.76755545.css",
+    "main.js": "/iMynn99/pamsimas/static/js/main.78cab5c9.js",
+    "index.html": "/iMynn99/pamsimas/index.html",
+    "main.76755545.css.map": "/iMynn99/pamsimas/static/css/main.76755545.css.map",
+    "main.78cab5c9.js.map": "/iMynn99/pamsimas/static/js/main.78cab5c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76755545.css",
+    "static/js/main.78cab5c9.js"
+  ]
+}
